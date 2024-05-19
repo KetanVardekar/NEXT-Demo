@@ -1,0 +1,84 @@
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    height: 100vh;
+    z-index: 9999;
+}
+
+.css-i4bv87-MuiSvgIcon-root [data-field="delete"] {
+    color: red;
+}
+
+.css-z2dqt4-MuiPaper-root-MuiAppBar-root {
+    box-shadow: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.css-1slnj5u-MuiPaper-root {
+    /* padding: 0px 30px; */
+    box-shadow: none;
+}
+
+.css-j5fvzp-MuiPaper-root-MuiAppBar-root {
+    box-shadow: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.css-dhvns5-MuiButtonBase-root-MuiIconButton-root {
+    transition: 1.5s ease-in-out;
+}
+
+.css-zow5z4-MuiGrid-root>.MuiGrid-item {
+    padding-left: 0px;
+}
+
+
+/* .css-m9mp0w-MuiToolbar-root {
+    display: none;
+} */
+
+h1 {
+    color: transparent !important;
+}
+
+h2 {
+    color: #4a4949 !important;
+    font-size: 30px !important;
+}
+
+.css-mhc70k-MuiGrid-root>.MuiGrid-item {
+    padding-inline: 10px;
+}
+
+.css-sm84pl-MuiDataGrid-root .super-app-theme--header {
+    background-color: #ddd;
+}
+
+.css-sm84pl-MuiDataGrid-root .MuiDataGrid-columnHeader,
+.css-sm84pl-MuiDataGrid-root .MuiDataGrid-cell {
+    padding: 0 0px 0 10px;
+}
+
+.css-zow5z4-MuiGrid-root {
+    width: 100%;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    background-image: linear-gradient(to right, #03426F, #0391BA);
+}
+
+.css-1dd0suk-MuiToolbar-root img {
+    margin-right: 10px;
+}
+
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+    cursor: default;
+}
+
+.css-1z0g18q-MuiDataGrid-root .MuiDataGrid-row {
+    max-height: 44px !important;
+    min-height: 44px !important;
+}
+
+
+/* .css-zow5z4-MuiGrid-root {
+    margin-left: 10rem;
+} */
